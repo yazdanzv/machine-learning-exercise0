@@ -216,7 +216,7 @@ GitHub repository, as explicitly requested by the group.
 **Tools:** Git and the installed GitHub CLI, using the authenticated `yazdanzv`
 account and existing Git author identity. No new skill or dependency is required.
 
-**Outputs:** Public repository `yazdanzv/machine-learning-exercise0-group56`,
+**Outputs:** Public repository `yazdanzv/machine-learning-exercise0`,
 containing this plan, both executed notebooks, and the Word/PDF report. Maintain
 its checkout outside University to avoid a redundant nested repository. The
 original course brief stays in University and is excluded from publication.
